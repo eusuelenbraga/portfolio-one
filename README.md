@@ -37,3 +37,6 @@ $ git clone https://github.com/suelenbraga1/portfolio-one.git
 # Acessar
 $ cd portfolio-one
 
+# Acessar
+$ cd portfolio-one
+
